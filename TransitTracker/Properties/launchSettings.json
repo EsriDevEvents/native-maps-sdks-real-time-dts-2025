@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TransitTracker": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
